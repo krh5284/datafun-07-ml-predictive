@@ -5,7 +5,7 @@ Domain: Chickens. All about chickens, chicken species, chicken farms, chicken fe
 # datafun-07-ml-predictive
 > Practice using the skills we've learned in Python to tell a story with data. diamonds.ipynb is a dataset and steps from the textbook. explore.ipynb is a dataset found on the internet and the analysis I chose to complete. 
 
-## Task 3 - 10.16 Practice
+## Task 3 - 10.16 and 15.4 Practice 
 
 Exercise in the book to practice using linear regression for machine learning
 
